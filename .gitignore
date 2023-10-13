@@ -1,0 +1,48 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*~
+
+# Environment-specific settings
+.env
+
+# System or temporary files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python virtual environment
+venv/
+env/
+__venv__/
+.vscode/
+
+# Package distribution
+/dist/
+/build/
+*.egg-info/
+
+# Local development settings
+*.sqlite3
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*.swn
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled Python files (if using Cython, etc.)
+*.so
+
+# Configuration files
+*.ini
+*.cfg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
